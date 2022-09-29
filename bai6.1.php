@@ -35,7 +35,7 @@
 </head>
 
 <body>
-    <form method="POST" action="bai6.php">
+    <form method="POST" action="bai6.1.php">
         <table>
             <thead>
                 <tr>
